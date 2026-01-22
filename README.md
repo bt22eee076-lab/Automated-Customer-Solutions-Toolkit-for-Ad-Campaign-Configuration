@@ -1,0 +1,2 @@
+# Automated-Customer-Solutions-Toolkit-for-Ad-Campaign-Configuration
+Built a Python based automation toolkit to validate ad campaign configurations and detect common setup issues. The system applies rule based checks, assigns severity based on business impact, and generates clear stakeholder friendly insights. Designed as a reusable solution to prevent misconfiguration at scale in advertising systems.
